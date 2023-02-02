@@ -1,4 +1,6 @@
+<div align="center"><h1>Hi!</h1></div>
 <div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 # 🙌 Introduction
 🎓 MYONGJI UNIV. Convergence Software Engineering  
@@ -21,4 +23,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psyeon1120&layout=compact)](https://github.com/psyeon1120/github-readme-stats)
 #### 🧸 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psyeon1120&show_icons=true&theme=highcontrast&bg_color=9fc5e8)
+
 </div>
