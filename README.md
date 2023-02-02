@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Zeplin-FF9900?style=flat&logo=Zeplin&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=AdobeXD&logoColor=white"/>
 
-<div align="center">
+<!-- <div align="center"> -->
 
 #### 👑 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psyeon1120&layout=compact)](https://github.com/psyeon1120/github-readme-stats)
 #### 🧸 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psyeon1120&show_icons=true&theme=highcontrast&bg_color=9fc5e8)
 
-</div>
+<!-- </div> -->
