@@ -1,8 +1,8 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 # 🙌 Introduction
 🎓 MYONGJI UNIV. Convergence Software Engineering  
 🌱 I want to be a Backend Developer!
-<div align="center">
 # ⚒️ Learning Tool & Skill ⚒️
 #### 🌍 Language
 <img src="https://img.shields.io/badge/Java-0769AD?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript(Starter)-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/NoSQL-FFCA28?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R(Starter)-276DC3?style=flat&logo=R&logoColor=white"/>
