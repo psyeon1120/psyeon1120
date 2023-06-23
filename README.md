@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=SeoyeonPark&fontSize=30)
 
 ### 🙌 Introduction
 🎓 MYONGJI UNIV. Convergence Software Engineering  
