@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 ### 🙌 Introduction
 🎓 MYONGJI UNIV. Convergence Software Engineering  
@@ -61,11 +61,12 @@
 <br>
 
 #### 👑
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psyeon1120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyeon1120&layout=compact"/> -->
-  
-#### 🧸
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psyeon1120&show_icons=true&theme=default&hide_rank=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psyeon1120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=psyeon1120&show_icons=true&theme=highcontrast&bg_color=9fc5e8" /> -->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyeon1120&layout=compact"/> -->
 
 </div>
+<!--  align="center" -->
