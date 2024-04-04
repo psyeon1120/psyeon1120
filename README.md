@@ -1,7 +1,6 @@
 <div>
 
 ### 🙌 Introduction
-🎓 MYONGJI UNIV. Convergence Software Engineering  
 🌱 I want to be a Backend Developer!
   
 <br>
